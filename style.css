@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.create-btn {
+    color: white;
+    background-color: rgba(143,65,254,255);
+    border: none;
+    border-radius: 5px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    padding: .5rem 2rem;
+}
+
+.sections h4 {
+    margin: 1rem 0;
+}
+
+.sections a {
+    font-size: .8rem;
+    display: block;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    margin: .3rem;
+}
+.sections a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    color: gray;
+    font-size: 12px;
+}
+
+.copyright:hover {
+    color: black;
+}
+
+.icons img {
+    width: 25px;
+    margin: 5px;
+
+}
+
+select {
+    padding: .3rem;
+    /* border: 1px solid gray; */
+    font-size: 14px;
+    border-radius: 5px;
+}
